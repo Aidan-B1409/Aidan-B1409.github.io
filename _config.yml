@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aidan Beery - Portfolio"
 title_separator          : "-"
 name                     : &name "Aidan Beery"
-description              : &description "Software Engineering Student"
+description              : &description "A Software Engineering Student's Portfolio"
 url                      : https://aidan-b1409.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aidan-B1409/Aidan-B1409.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aidan Beery"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Software Engineering Student. Professional Data Dork."
   location         : "Bend, Oregon"
   employer         : 
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "aidanb1409"
   orcid            : 
   pinterest        :
   soundcloud       :
