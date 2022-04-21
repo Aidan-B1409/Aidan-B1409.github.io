@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Robot Grasp Validation Classifier"
+excerpt: "Ensuring stable and safe robot manipulator operation using Gazebo simulation data<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
