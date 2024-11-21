@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Aidan Beery"
   avatar           : "profile.png"
-  bio              : "Software Engineering Student. Professional Data Dork."
-  location         : "Bend, Oregon"
+  bio              : "CS/AI Ph.D. student @ Oregon State"
+  location         : "Corvallis, Oregon"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=YV79b44AAAAJ"
   email            : "beerya@oregonstate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
