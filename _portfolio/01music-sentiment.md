@@ -13,10 +13,15 @@ In 2021, we presented preliminary findings at [NCUR](https://www.cur.org/what/ev
 Improving upon this statistical approach, we use [BERT](https://arxiv.org/abs/1810.04805), a pre-trained language model,
 to extract semantic information from our social media discourse. We train our model on a dataset of over 11.8 million
 comments across Reddit, YouTube, and Twitter, each of which relates to one of 19,627 songs. We achieve state-of-the-art
-performance on music valence/arousal prediction without relying on often-copyrighted acoustic data. You can find more
-information on our experiments and results in our paper [here](https://aidanbeery.com/files/sact_2022.pdf)
+performance on music valence/arousal prediction without relying on often-copyrighted acoustic data.
 
 ![EECS 2022 Poster](/images/wine_poster_2022.png)
 
+You can find more
+information on our experiments and results in our paper [here](https://aidanbeery.com/files/sact_2022.pdf)
+
 This work was supervised by [Dr. 
 Patrick Donnelly](https://engineering.oregonstate.edu/people/patrick-donnelly) at [Soundbendor Lab](https://soundbendor.org/), Oregon State University.
+
+Part of this work was completed in fufillment of the Honors Thesis requirements at Oregon State. You can find my
+undergraduate thesis publication [here](https://ir.library.oregonstate.edu/concern/honors_college_theses/tt44pv32b)
