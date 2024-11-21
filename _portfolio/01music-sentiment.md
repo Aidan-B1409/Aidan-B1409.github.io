@@ -1,6 +1,6 @@
 ---
 title: "Music Sentiment Analysis"
-excerpt: "Predicting Music Emotion from Social Media Commentary<br/><img src='/files/wordcloud.svg'>"
+excerpt: "Predicting Music Emotion from Social Media Commentary<br/><img src='/images/wordcloud.png'>"
 collection: portfolio
 ---
 
