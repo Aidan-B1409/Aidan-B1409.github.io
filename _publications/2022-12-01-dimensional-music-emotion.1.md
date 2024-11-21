@@ -1,7 +1,7 @@
 ---
 title: 'Evaluating large-language models for dimensional music emotion prediction from social media discourse'
 collection: publications
-permalink: /publication/2022-12-01-dimensional-music-emotion-1.md
+permalink: /publication/2022-12-01-dimensional-music-emotion-1
 excerpt: 'We present a preliminary approach for estimating the valence and arousal of a given sample of music by learning listener sentiment from social meida conversations.'
 date: 2022-12-01
 venue: 'ICNLSP 2022'
