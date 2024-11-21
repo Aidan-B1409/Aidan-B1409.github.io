@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-11-04-smart-compost-bin
 excerpt: 'We present the Smart Compost Bin, a novel food waste measurement device. Our low-cost 3D printed compost bin allows household users to gain insights on their food waste and compost habits, using a camera and environmental sensors to automatically classify and quantify food disposals. Using this device, we propose a pilot study to leverage volunteer households to annotate food waste images taken from our device, enabling the development of a robust food waste image segmentation model.'
 date: 2024-11-04
-venue: 'CoFI 2024'
+venue: 'CoFI'
 paperurl: 'http://aidan-b1409.github.io/files/cofi_2024.pdf'
 #citation: ''
 ---
