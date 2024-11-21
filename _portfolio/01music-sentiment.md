@@ -16,7 +16,7 @@ comments across Reddit, YouTube, and Twitter, each of which relates to one of 19
 performance on music valence/arousal prediction without relying on often-copyrighted acoustic data. You can find more
 information on our experiments and results in our paper [here](https://aidanbeery.com/files/sact_2022.pdf)
 
-![EECS 2022 Poster](/images/wine_poster_2022.pdf)
+![EECS 2022 Poster](/images/wine_poster_2022.png)
 
 This work was supervised by [Dr. 
 Patrick Donnelly](https://engineering.oregonstate.edu/people/patrick-donnelly) at [Soundbendor Lab](https://soundbendor.org/), Oregon State University.
