@@ -1,12 +1,12 @@
 ---
 title: "Decision Transformer for Robotic Arm Manipulation"
-excerpt: "Transformers for offline reinforcement learning from synthetic data for robotics<br/><img
+excerpt: "Transformers for offline reinforcement learning from synthetic data for robotics<br/><img 
 src='/images/fetch_slide.gif'>"
 collection: portfolio
 ---
 
-![Push](/images/push.gif)![Reach](/images/reach.gif)
-![pick_and_place](/images/pick_and_place.gif)![slides](/images/slide.gif)
+![Push](/images/push.gif)!{:width="50%"}[Reach](/images/reach.gif){:width="50%"}
+![pick_and_place](/images/pick_and_place.gif){:width="50%"}![slides](/images/slide.gif){:width="50%"}
 
 ... using a 7-DoF robotic manipulator arm simulated in MuJoCo, from the [Gymnasium-Robotics](https://robotics.farama.org/envs/fetch/) library of reinforcement
 learning environments.
