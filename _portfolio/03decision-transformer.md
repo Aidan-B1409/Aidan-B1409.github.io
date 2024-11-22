@@ -21,5 +21,5 @@ learning environments.
 
 We find that, our decision transformer model, trained only on randomly synthesized control trajectories, is able to successfully complete the Reach task in 100% of trials. Using a combination of expert and randomly synthesized trajectories enables our model to learn more complex controls tasks. We find that Decision Transformers are able to effectively clone expert policies in an offline RL environment.
 
-You can find the source code for our model and experiments [here](https://github.com/Aidan-B1409/AI535_DecisionTransformer)
+You can find the source code for our model and experiments [here](https://github.com/Aidan-B1409/AI535_DecisionTransformer), and a more in-depth writeup [here](/files/ai535_report.pdf)
 
