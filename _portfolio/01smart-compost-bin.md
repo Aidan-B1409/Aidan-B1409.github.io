@@ -34,4 +34,6 @@ Foundation](https://thekrogercozerohungerzerowastefoundation.com/).
 
 ![App Screenshots](/images/app_screenshots.png)
 
+![SCB Sensors](/images/scb_sensors.png)
+
 
