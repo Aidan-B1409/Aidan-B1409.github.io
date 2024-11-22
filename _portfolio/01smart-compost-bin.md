@@ -19,9 +19,9 @@ pilot study with fifty households to annotate images of food waste using our com
 3. We will use our dataset to train a computer vision model to automatically measure household
 food waste by segmenting disposed items from images of commingled food refuse
 
-![Example Image](/images/compost_segmented.jpg){:width="100%"}
+![Example Image](/images/compost_segmented.jpg)
 
-![System Diagram](/images/cloud_pipeline_v4.png){:width="75%"}
+![System Diagram](/images/cloud_pipeline_v4.png){:width="85%"}
 
 You can see our first publication, describing the design and implementation of the Smart Compost Bin
 [here](https://aidanbeery.com/files/cofi_2024.pdf). 
