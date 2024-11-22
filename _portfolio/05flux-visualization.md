@@ -12,5 +12,4 @@ Using these simulations, we take the point cloud data from MCNP6.2 and generate 
 
 [You can see the source code here.](https://github.com/Aidan-B1409/neutron_flux_visualization)
 
-Project was completed as a part of the requirements for CS-553 Scientific Visualization @ OSU.
 
