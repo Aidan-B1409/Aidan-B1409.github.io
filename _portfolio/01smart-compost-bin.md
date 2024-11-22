@@ -1,6 +1,6 @@
 ---
 title: "Smart Compost Bin"
-excerpt: "Developing a low-cost, 3D printed device for automatically measuring food waste using state-of-the-art computer vision models<br/><img src='/images/bin_partial_open.jpg'>"
+excerpt: "Developing a low-cost, 3D printed device for automatically measuring food waste using state-of-the-art computer vision models<br/><img src='/images/bin_thumbnail.jpg'>"
 collection: portfolio
 ---
 
