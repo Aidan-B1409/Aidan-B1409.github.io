@@ -5,7 +5,7 @@ permalink: /publication/2022-12-01-dimensional-music-emotion-1
 excerpt: 'We present a preliminary approach for estimating the valence and arousal of a given sample of music by learning listener sentiment from social media conversations.'
 date: 2022-12-01
 venue: 'ICNLSP'
-paperurl: 'http://academicpages.github.io/files/icnlsp_2022.pdf'
+paperurl: 'http://aidanbeery.com/files/icnlsp_2022.pdf'
 #ecitation: 'P. J. Donnelly and A. Beery, “Evaluating Large-Language Models for Dimensional Music Emotion Prediction from Social Media Discourse"'
 
 ---
