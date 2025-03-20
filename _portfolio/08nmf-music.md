@@ -8,7 +8,7 @@ collection: portfolio
 ## Original Audio
 {% include embed-audio.html src="/assets/audio/runningExample_AmenBreak.wav" %}
 
-[Spectogram 1](/assets/img/amenbreak_spectogram)
+![Spectogram 1](/assets/img/amenbreak_spectogram)
 
 ## Sources
 
@@ -25,6 +25,7 @@ collection: portfolio
 # Sample - 808
 ## Original Audio
 {% include embed-audio.html src="/assets/audio/runningExample_808Mixture.wav" %}
+![Spectogram 2](/assets/img/808_spectogram)
 
 ## Sources
 
@@ -41,6 +42,8 @@ collection: portfolio
 # Sample - Funky
 ## Original Audio
 {% include embed-audio.html src="/assets/audio/runningExample_FunkyMixture.wav" %}
+![Spectogram 3](/assets/img/funky_spectogram)
+
 ## Sources
 
 - Kick Drum
@@ -56,6 +59,8 @@ collection: portfolio
 # Sample - I Got You
 ## Original Audio
 {% include embed-audio.html src="/assets/audio/runningExample_IGotYouMixture.wav" %}
+![Spectogram 3](/assets/img/igotyou_spectogram)
+
 ## Sources
 
 - Kick Drum
