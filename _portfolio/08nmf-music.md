@@ -21,6 +21,8 @@ collection: portfolio
 - Hi-Hat
 {% include embed-audio.html src="/assets/audio/amenbreak_sample2.wav" %}
 
+![Source 1](/assets/img/amenbreak_source0.png){:width="50%"}![Source 2](/assets/img/amenbreak_source1.png){:width="50%"}![Source 3](/assets/img/amenbreak_source2.png){:width="50%"}
+
 
 # Sample - 808
 ## Original Audio
