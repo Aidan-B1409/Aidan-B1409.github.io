@@ -8,6 +8,8 @@ collection: portfolio
 ## Original Audio
 {% include embed-audio.html src="/assets/audio/runningExample_AmenBreak.wav" %}
 
+[Spectogram 1](/assets/img/amenbreak_spectogram)
+
 ## Sources
 
 - Kick Drum
@@ -23,6 +25,7 @@ collection: portfolio
 # Sample - 808
 ## Original Audio
 {% include embed-audio.html src="/assets/audio/runningExample_808Mixture.wav" %}
+
 ## Sources
 
 - Cymbal
