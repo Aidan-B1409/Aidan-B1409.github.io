@@ -19,18 +19,19 @@ collection: portfolio
 - Hi-Hat
 {% include embed-audio.html src="/assets/audio/amenbreak_sample2.wav" %}
 
+
 # Sample - 808
 ## Original Audio
 {% include embed-audio.html src="/assets/audio/runningExample_808Mixture.wav" %}
 ## Sources
 
-- Kick Drum
+- Cymbal
 {% include embed-audio.html src="/assets/audio/808_sample0.wav" %}
 
-- Snare Drum
+- Snare
 {% include embed-audio.html src="/assets/audio/808_sample1.wav" %}
 
-- Hi-Hat
+- Bass
 {% include embed-audio.html src="/assets/audio/808_sample2.wav" %}
 
 
@@ -42,7 +43,7 @@ collection: portfolio
 - Kick Drum
 {% include embed-audio.html src="/assets/audio/funky_sample0.wav" %}
 
-- Snare Drum
+- Mid Tom
 {% include embed-audio.html src="/assets/audio/funky_sample1.wav" %}
 
 - Hi-Hat
@@ -60,7 +61,7 @@ collection: portfolio
 - Snare Drum
 {% include embed-audio.html src="/assets/audio/igotyou_sample1.wav" %}
 
-- Hi-Hat
+- Brass
 {% include embed-audio.html src="/assets/audio/igotyou_sample2.wav" %}
 
 
