@@ -83,6 +83,7 @@ audio source separation.
 
 ![Source 1](/assets/img/igotyou_source0.png){:width="32%"}![Source 2](/assets/img/igotyou_source1.png){:width="32%"}![Source 3](/assets/img/igotyou_source2.png){:width="32%"}
 
-You can see the code for this experiment [here](https://github.com/Aidan-B1409/AccelSepNMF).
+You can see the code for this experiment [here](https://github.com/Aidan-B1409/AccelSepNMF). For more details, find my
+report [here](/files/Beery_A_AI568FinalReport.pdf)
 
 This project was completed as part of the requirements for AI-586 Applied Matrix Analysis at OSU.
